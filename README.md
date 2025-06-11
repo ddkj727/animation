@@ -1,3 +1,3 @@
 # animation
-mission of anima
-password：ddkj
+mission of anima（only modify）
+
